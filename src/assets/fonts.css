@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    src: local("RubikRegular"),
+         url("./RubikRegular.woff") format("woff");
+  }
+
+  @font-face {
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    src: local("RubikBold"),
+         url("./RubikBold.woff") format("woff");
+  }
